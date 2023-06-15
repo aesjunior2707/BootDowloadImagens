@@ -5,6 +5,7 @@ import urllib.request
 import zipfile
 import shutil
 import tkinter as tk
+
 import threading
 
 # Cria a janela
