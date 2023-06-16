@@ -11,6 +11,8 @@ import threading
 # Cria a janela
 janela = tk.Tk()
 
+print("teste")
+
 janela.title("Boot Imagens Sousas Imobiliaria")
 
 janela.geometry("750x500")
